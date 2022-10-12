@@ -1,2 +1,2 @@
-# project-management-app
-Project Management App (MERN + GraphQL)
+# Project Management App (MERN + GraphQL)
+
